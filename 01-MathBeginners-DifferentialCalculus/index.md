@@ -27,12 +27,12 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 </div>
 
 <div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn note">LectureNotes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn note">LectureNotes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M3/" class="btn note">LectureNotes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M4/" class="btn note">LectureNotes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M5/" class="btn note">LectureNotes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M6/" class="btn note">LectureNotes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn note">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn note">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M3/" class="btn note">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M4/" class="btn note">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M5/" class="btn note">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M6/" class="btn note">Notes</a>
 </div>
 
 <div>
