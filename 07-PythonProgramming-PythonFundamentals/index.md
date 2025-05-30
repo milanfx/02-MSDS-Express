@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 07 - PythonProgramming - Python Fundamentals
-permalink: /EXPR08/
+permalink: /EXPR07/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

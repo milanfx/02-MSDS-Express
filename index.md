@@ -46,7 +46,7 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
   <span class="spec">Python<br>Intermediate</span>
-  <a href="/02-MSDS-Express/EXPR13/" class="cour">Object-Oriented<br>Programming</a>
+  <a href="/02-MSDS-Express/EXPR13/" class="cour">Object<br>Oriented</a>
   <a href="/02-MSDS-Express/EXPR14/" class="cour">NumPy<br>& Pandas</a>
   <a href="/02-MSDS-Express/EXPR15/" class="cour">Data<br>Visualization</a>
 </div>

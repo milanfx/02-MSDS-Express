@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 13 - Python Intermediate - Object-Oriented Programming
+title: 13 - Python Intermediate - Object Oriented
 permalink: /EXPR13/
 ---
 
