@@ -11,9 +11,9 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 <div>
   <span class="note">M1 Searching<br>Sorting</span>
   <a href="/03-MSDS-Courses/MSDS01/M1/" class="icon">Lecture<br>Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="cour">Note<br>Book</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="cour">Note<br>Book</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="cour">Note<br>Book</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="icon">Note<br>Book</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="icon">Note<br>Book</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="icon">Note<br>Book</a>
 </div>
 
 <h3>Milanfx</h3>
