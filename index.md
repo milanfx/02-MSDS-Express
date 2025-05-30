@@ -88,4 +88,11 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <a href="/02-MSDS-Express/EXPR32/" class="cour">R<br>Introduction</a>
 </div>
 
+<div>
+  <span class="spec">Tableau<br>Beginners</span>
+  <a href="/02-MSDS-Express/EXPR33/" class="cour">Tableau<br>Fundamentals</a>
+  <a href="/02-MSDS-Express/EXPR34/" class="cour">Tableau<br>Dashboard</a>
+  <a href="/02-MSDS-Express/EXPR35/" class="cour">Tableau<br>Advanced</a>
+</div>
+
 <h3>Milanfx</h3>
