@@ -16,179 +16,90 @@
       font-size: 1rem;
     }
 
-    h2 {
+    h2, h3, h4 {
       background-color: Ivory;
       color: #01579b;
       text-align: left;
       font-family: 'Roboto Condensed', sans-serif;
-      font-size: 24px;
       font-weight: bold;
       margin: 0;
       overflow: hidden;
       padding: 5px;
     }
-
+    h2 { font-size: 24px; }
     h3 {
-      background-color: Ivory;
-      color: #01579b;
-      text-align: left;
-      font-family: 'Roboto Condensed', sans-serif;
       font-size: 16px;
-      font-weight: bold;
-      margin: 0;
-      overflow: hidden;
-      padding: 5px;
       border-top: 2px solid #01579b;
       border-bottom: 2px solid #01579b;
     }
+    h4 { font-size: 16px; }
 
-    h4 {
-      background-color: Ivory;
-      color: #01579b;
-      text-align: left;
+    .title {
+      background-color: #01579b;
+      color: Ivory;
+      text-align: center;
       font-family: 'Roboto Condensed', sans-serif;
-      font-size: 16px;
-      font-weight: bold;
+      font-size: 40px;
       margin: 0;
       overflow: hidden;
-      padding: 5px;
+      padding: 10px 0;
     }
-
-    .back {
+    .btn {
       display: inline-block;
       background-color: #01579b;
       color: Ivory;
       text-align: center;
       font-family: 'Roboto Condensed', sans-serif;
+      font-size: 16px;
+      line-height: 1;
+      margin: 5px;
+      overflow: hidden;
+      text-decoration: none;
+      padding: 5px;
+      border-radius: 5px;
+      border: 2px solid #01579b;
+      width: 110px;
+    }
+
+    .btn.back {
       font-size: 14px;
-      font-weight: normal;
-      line-height: 1;
-      margin: 5px;
-      overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
       width: 90px;
-      border-radius: 5px;
     }
-
-      .spec {
-      display: inline-block;
+    .btn.spec {
       background-color: Ivory;
       color: #01579b;
-      text-align: center;
-      font-family: 'Roboto Condensed', sans-serif;
       font-weight: bold;
-      font-size: 16px;
-      line-height: 1;
-      margin: 5px;
-      overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
       width: 135px;
-      border-radius: 5px;
-      border: 2px solid #01579b;
     }
-
-      .cour {
-      display: inline-block;
-      background-color: #01579b;
-      color: Ivory;
-      text-align: center;
-      font-family: 'Roboto Condensed', sans-serif;
-      font-weight: normal;
-      font-size: 16px;
-      line-height: 1;
-      margin: 5px;
-      overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
-      width: 135px;
-      border-radius: 5px;
-      border: 2px solid #01579b;
-    }
-
-      .modu {
-      display: inline-block;
+    .btn.cour {width: 135px;}
+    .btn.modu {
       background-color: Ivory;
       color: #01579b;
-      text-align: center;
-      font-family: 'Roboto Condensed', sans-serif;
       font-weight: bold;
-      font-size: 16px;
-      line-height: 1;
-      margin: 5px;
-      overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
-      width: 110px;
-      border-radius: 5px;
-      border: 2px solid #01579b;
     }
-
-      .note {
-      display: inline-block;
-      background-color: #01579b;
-      color: Ivory;
-      text-align: center;
-      font-family: 'Roboto Condensed', sans-serif;
-      font-weight: normal;
-      font-size: 16px;
-      line-height: 1;
-      margin: 5px;
-      overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
-      width: 110px;
-      border-radius: 5px;
-      border: 2px solid #01579b;
-    }
-
-      .prac {
-      display: inline-block;
-      background-color: #0277bd;
-      color: Ivory;
-      text-align: center;
-      font-family: 'Roboto Condensed', sans-serif;
-      font-weight: normal;
-      font-size: 16px;
-      line-height: 1;
-      margin: 5px;
-      overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
-      width: 110px;
-      border-radius: 5px;
-      border: 2px solid #01579b;
-    }
-
+    .btn.name {background-color: #01579b;}
+    .btn.note {background-color: #0277bd;}
+    .btn.work {background-color: #1976d2;}
+    .btn.prac {background-color: #039be5;}
   </style>
 </head>
 <body>
   <div style="border-top: 5px solid #01579b;"></div>
   <div style="border-top: 3px solid Ivory;"></div>
-  <div style="
-    background-color: #01579b;
-    color: Ivory;
-    text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
-    font-size: 40px;
-    margin: 0;
-    overflow: hidden;
-    padding: 10px 0;
-  ">
+  <div class="title">
     {{ page.title }}
   </div>
   <div style="border-bottom: 3px solid Ivory;"></div>
   <div style="border-bottom: 5px solid #01579b;"></div>
   <br>
-  <a href="/" class="back">Go Home</a>
-  <a href="javascript:history.back()" class="back">Go Back</a>
+  <a href="/" class="btn back">Go Home</a>
+  <a href="javascript:history.back()" class="btn back">Go Back</a>
   <br>
   <div>
     {{ content }}
   </div>
   <br>
-  <a href="/" class="back">Go Home</a>
-  <a href="javascript:history.back()" class="back">Go Back</a>
+  <a href="/" class="btn back">Go Home</a>
+  <a href="javascript:history.back()" class="btn back">Go Back</a>
 </body>
 </html>

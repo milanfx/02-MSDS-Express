@@ -18,12 +18,12 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 </div>
 
 <div>
-  <span class="note">Convolutional<br>NeuralNetworks</span>
-  <span class="note">Convolutional<br>NeuralNetworks</span>
-  <span class="note">Convolutional<br>NeuralNetworks</span>
-  <span class="note">Convolutional<br>NeuralNetworks</span>
-  <span class="note">Convolutional<br>NeuralNetworks</span>
-  <span class="note">Convolutional<br>NeuralNetworks</span>
+  <span class="name">Convolutional<br>NeuralNetworks</span>
+  <span class="name">Convolutional<br>NeuralNetworks</span>
+  <span class="name">Convolutional<br>NeuralNetworks</span>
+  <span class="name">Convolutional<br>NeuralNetworks</span>
+  <span class="name">Convolutional<br>NeuralNetworks</span>
+  <span class="name">Convolutional<br>NeuralNetworks</span>
 </div>
 
 <div>
@@ -36,12 +36,12 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 </div>
 
 <div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="prac">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="prac">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="prac">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="prac">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="prac">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="prac">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="work">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="work">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="work">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="work">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="work">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="work">Notebooks<br>CNN</a>
 </div>
 
 <div>
