@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 13 - Machine Learning - Supervised Learning
-permalink: /MSDS13/
+title: 13 - Python Intermediate - Object-Oriented Programming
+permalink: /EXPR13/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

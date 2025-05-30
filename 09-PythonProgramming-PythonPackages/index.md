@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 09 - Stats Modeling - Nonlinear Regression
-permalink: /MSDS09/
+title: 09 - Python Programming - Python Packages
+permalink: /EXPR09/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

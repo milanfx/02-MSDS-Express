@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 15 - Machine Learning - Deep Learning
-permalink: /MSDS15/
+title: 15 - Python Intermediate - Data Visualization
+permalink: /EXPR15/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

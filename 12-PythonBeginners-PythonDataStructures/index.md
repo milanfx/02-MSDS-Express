@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 12 - Data Mining - Data Mining Projects
-permalink: /MSDS12/
+title: 12 - Python Beginners - Python Data Structures
+permalink: /EXPR12/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

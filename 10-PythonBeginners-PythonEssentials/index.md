@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 10 - Data Mining - Data Mining Pipeline
-permalink: /MSDS10/
+title: 10 - Python Beginners - Python Essentials
+permalink: /EXPR10/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

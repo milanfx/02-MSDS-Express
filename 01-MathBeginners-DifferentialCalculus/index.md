@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 01 - Data Algorithms - Searching & Sorting
-permalink: /MSDS01/
+title: 01 - Math Beginners - Differential Calculus
+permalink: /EXPR01/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

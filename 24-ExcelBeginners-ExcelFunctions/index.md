@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 21 - DS Vital Skills - Ethical Issues
-permalink: /MSDS21/
+title: 24 - Excel Beginners - Excel Functions
+permalink: /EXPR24/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

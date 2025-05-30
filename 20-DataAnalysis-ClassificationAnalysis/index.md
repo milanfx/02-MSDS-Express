@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 20 - DS Vital Skills - Cybersecurity
-permalink: /MSDS20/
+title: 20 - Data Analysis - Classification Analysis
+permalink: /EXPR20/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 11 - Data Mining - Data Mining Method
-permalink: /MSDS11/
+title: 11 - Python Beginners - Python Flow Controls
+permalink: /EXPR11/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

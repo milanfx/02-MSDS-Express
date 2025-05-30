@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 22 - DS Vital Skills - Data Visualization
-permalink: /MSDS22/
+title: 28 - VBA Beginners - VBA Applications
+permalink: /EXPR28/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

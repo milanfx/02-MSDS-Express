@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 04 - Stats Inference - Probability Theory
-permalink: /MSDS04/
+title: 04 - Tidyverse Programming - Tidyverse Introduction
+permalink: /EXPR04/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

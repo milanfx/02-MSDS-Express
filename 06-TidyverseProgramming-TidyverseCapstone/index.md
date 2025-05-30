@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 06 - Stats Inference - Hypothesis Testing
-permalink: /MSDS06/
+title: 06 - Tidyverse Programming - Tidyverse Capstone
+permalink: /EXPR06/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 14 - Machine Learning - Unsupervised Learning
-permalink: /MSDS14/
+title: 14 - Python Intermediate - NumPy & Pandas
+permalink: /EXPR14/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

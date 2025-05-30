@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 18 - Database Query - Advanced Database
-permalink: /MSDS18/
+title: 18 - Data Wrangling - Data Visualization
+permalink: /EXPR18/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

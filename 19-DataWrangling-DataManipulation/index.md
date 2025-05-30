@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 19 - DS Vital Skills - Data Science Field
-permalink: /MSDS19/
+title: 19 - Data Wrangling - Data Manipulation
+permalink: /EXPR19/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

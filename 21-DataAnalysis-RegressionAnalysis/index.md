@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 21 - DS Vital Skills - Ethical Issues
-permalink: /MSDS21/
+title: 21 - Data Analysis - Regression Analysis
+permalink: /EXPR21/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

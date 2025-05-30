@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 08 - Stats Modeling - ANOVA & Experiment
+title: 08 - Python Programming - Python Functions
 permalink: /MSDS08/
 ---
 

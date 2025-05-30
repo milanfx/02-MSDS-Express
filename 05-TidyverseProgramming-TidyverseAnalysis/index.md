@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 05 - Stats Inference - Parametric Estimation
-permalink: /MSDS05/
+title: 05 - Tidyverse Programming - Tidyverse Analysis
+permalink: /EXPR05/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

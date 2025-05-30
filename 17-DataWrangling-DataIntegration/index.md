@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 17 - Database Query - SQL Language
-permalink: /MSDS17/
+title: 17 - Data Wrangling - Data Integration
+permalink: /EXPR17/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

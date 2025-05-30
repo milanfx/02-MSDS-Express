@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 03 - Data Algorithms - Dynamic Programming
-permalink: /MSDS03/
+title: 03 - MathBeginners - Integral Calculus
+permalink: /EXPR03/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 16 - Database Query - Relational Database
-permalink: /MSDS16/
+title: 16 - Data Wrangling - Data Wrangling Tools
+permalink: /EXPR16/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
