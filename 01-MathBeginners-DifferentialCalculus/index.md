@@ -9,21 +9,12 @@ permalink: /EXPR01/
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn cour6">Module-1</span>
-  <span class="btn cour6">Module-2</span>
-  <span class="btn cour6">Module-3</span>
-  <span class="btn cour6">Module-4</span>
-  <span class="btn cour6">Module-5</span>
-  <span class="btn cour6">Module-6</span>
-</div>
-
-<div>
-  <span class="btn cour5">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour5">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour5">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour5">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour5">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour5">Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour5">Module 01<br><br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour5">Module 02<br><br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour5">Module 03<br><br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour5">Module 04<br><br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour5">Module 05<br><br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour5">Module 06<br><br>Convolutional<br>NeuralNetworks</span>
 </div>
 
 <div>
