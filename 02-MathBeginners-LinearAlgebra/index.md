@@ -13,6 +13,11 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <br>
   <a href="/03-MSDS-Express/EXPR01/M1/" class="btn cour6">Notes</a>
   <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour7">Homework<br>CNN</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour7">Homework<br>CNN</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour7">Homework<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">Practice<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">Practice<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">Practice<br>RNN</a>
   <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">Practice<br>RNN</a>
   </span>
 </div>
