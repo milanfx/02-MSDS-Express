@@ -17,22 +17,14 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">📂<br>RNN</a>
   <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour9">📂<br>RNN</a>
   </span>
-</div>
 
-📝📝📝📝📝
-📂📂📂📂📂
-⏰⏰⏰⏰⏰
-<div>
   <span class="btn cour"><span class="btn cour5">Module 01 - Convolutional Neural Networks</span>
   <br>
-  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn cour6">Module<br>Notes</a>
-  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour6">Homework<br>CNN</a>
-  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour7">Homework<br>CNN</a>
-  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour7">Homework<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">Practice<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">Practice<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour9">Practice<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour9">Practice<br>RNN</a>
+  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn cour6">📝<br>Notes</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour6">⏰<br>CNN</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn cour7">⏰<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour8">📂<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour9">📂<br>RNN</a>
   </span>
 </div>
 
