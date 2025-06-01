@@ -25,32 +25,36 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 </div>
 
 <div>
-  <span class="btn cour0">Python<br>Programming</span>
-  <a href="/02-MSDS-Express/EXPR07/" class="btn cour1">Python<br>Fundamentals</a>
-  <a href="/02-MSDS-Express/EXPR08/" class="btn cour2">Python<br>Functions</a>
-  <a href="/02-MSDS-Express/EXPR09/" class="btn cour3">Python<br>Packages</a>
+  <span class="btn spec1"><span class="btn spec2">Specialization 03 - Python Programming</span>
+  <br>
+  <a href="/02-MSDS-Express/EXPR01/" class="btn cour1">Python<br>Fundamentals</a>
+  <a href="/02-MSDS-Express/EXPR02/" class="btn cour2">Python<br>Functions</a>
+  <a href="/02-MSDS-Express/EXPR03/" class="btn cour3">Python<br>Packages</a>
+  </span>
+
+  <span class="btn spec1"><span class="btn spec2">Specialization 04 - Python Beginners</span>
+  <br>
+  <a href="/02-MSDS-Express/EXPR04/" class="btn cour1">Python<br>Essentials</a>
+  <a href="/02-MSDS-Express/EXPR05/" class="btn cour2">Python<br>Flow Controls</a>
+  <a href="/02-MSDS-Express/EXPR06/" class="btn cour3">Python<br>Data Structures</a>
+  </span>
 </div>
 
 <div>
-  <span class="btn cour0">Python<br>Beginners</span>
-  <a href="/02-MSDS-Express/EXPR10/" class="btn cour1">Python<br>Essentials</a>
-  <a href="/02-MSDS-Express/EXPR11/" class="btn cour2">Python<br>Flow Controls</a>
-  <a href="/02-MSDS-Express/EXPR12/" class="btn cour3">Python<br>Data Structures</a>
-</div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 05 - Python Intermediate</span>
+  <br>
+  <a href="/02-MSDS-Express/EXPR01/" class="btn cour1">Object<br>Oriented</a>
+  <a href="/02-MSDS-Express/EXPR02/" class="btn cour2">NumPy<br>& Pandas</a>
+  <a href="/02-MSDS-Express/EXPR03/" class="btn cour3">Data<br>Visualization</a>
+  </span>
 
-<div>
-  <span class="btn cour0">Python<br>Intermediate</span>
-  <a href="/02-MSDS-Express/EXPR13/" class="btn cour1">Object<br>Oriented</a>
-  <a href="/02-MSDS-Express/EXPR14/" class="btn cour2">NumPy<br>& Pandas</a>
-  <a href="/02-MSDS-Express/EXPR15/" class="btn cour3">Data<br>Visualization</a>
-</div>
-
-<div>
-  <span class="btn cour0">Data<br>Wrangling</span>
-  <a href="/02-MSDS-Express/EXPR16/" class="btn cour1">Data Wrangling<br>Tools</a>
-  <a href="/02-MSDS-Express/EXPR17/" class="btn cour2">Data<br>Integration</a>
-  <a href="/02-MSDS-Express/EXPR18/" class="btn cour3">Data<br>Visualization</a>
-  <a href="/02-MSDS-Express/EXPR19/" class="btn cour4">Data<br>Manipulation</a>
+  <span class="btn spec1"><span class="btn spec2">Specialization 06 - Data Wrangling</span>
+  <br>
+  <a href="/02-MSDS-Express/EXPR04/" class="btn icon1">Data Wrangling<br>Tools</a>
+  <a href="/02-MSDS-Express/EXPR05/" class="btn icon2">Data<br>Integration</a>
+  <a href="/02-MSDS-Express/EXPR06/" class="btn icon3">Data<br>Visualization</a>
+  <a href="/02-MSDS-Express/EXPR06/" class="btn icon4">Data<br>Manipulation</a>
+  </span>
 </div>
 
 <div>
