@@ -11,16 +11,16 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 <div>
   <span class="btn spec1"><span class="btn spec2">Specialization 01 - Math Beginners</span>
   <br>
-  <a href="/03-MSDS-Express/EXPR01/" class="btn cour1">Differential<br>Calculus</a>
-  <a href="/03-MSDS-Express/EXPR02/" class="btn cour2">Linear<br>Algebra</a>
-  <a href="/03-MSDS-Express/EXPR03/" class="btn cour3">Integral<br>Calculus</a>
+  <a href="/02-MSDS-Express/EXPR01/" class="btn cour1">Differential<br>Calculus</a>
+  <a href="/02-MSDS-Express/EXPR02/" class="btn cour2">Linear<br>Algebra</a>
+  <a href="/02-MSDS-Express/EXPR03/" class="btn cour3">Integral<br>Calculus</a>
   </span>
 
   <span class="btn spec1"><span class="btn spec2">Specialization 02 - Tidyverse Programming</span>
   <br>
-  <a href="/03-MSDS-Express/EXPR04/" class="btn cour1">Tidyverse<br>Introduction</a>
-  <a href="/03-MSDS-Express/EXPR05/" class="btn cour2">Tidyverse<br>Analysis</a>
-  <a href="/03-MSDS-Express/EXPR06/" class="btn cour3">Tidyverse<br>Project</a>
+  <a href="/02-MSDS-Express/EXPR04/" class="btn cour1">Tidyverse<br>Fundamentals</a>
+  <a href="/02-MSDS-Express/EXPR05/" class="btn cour2">Tidyverse<br>Analysis</a>
+  <a href="/02-MSDS-Express/EXPR06/" class="btn cour3">Tidyverse<br>Projects</a>
   </span>
 </div>
 
