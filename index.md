@@ -50,7 +50,7 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
   <span class="btn spec1"><span class="btn spec2">Specialization 06 - Data Wrangling</span>
   <br>
-  <a href="/02-MSDS-Express/EXPR04/" class="btn icon1">Data Wrangling<br>Tools</a>
+  <a href="/02-MSDS-Express/EXPR04/" class="btn icon1">Wrangling<br>Tools</a>
   <a href="/02-MSDS-Express/EXPR05/" class="btn icon2">Data<br>Integration</a>
   <a href="/02-MSDS-Express/EXPR06/" class="btn icon3">Data<br>Visualization</a>
   <a href="/02-MSDS-Express/EXPR06/" class="btn icon4">Data<br>Manipulation</a>
