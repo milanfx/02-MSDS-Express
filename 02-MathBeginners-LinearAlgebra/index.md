@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 02 - Math Beginners - Linear Algebra
-permalink: /EXPR02/
+permalink: /EX02/
 ---
 
 <h3>Study Notes</h3>

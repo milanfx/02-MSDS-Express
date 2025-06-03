@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 04 - Analytics Beginners - Analytics Introduction
-permalink: /EXPR04/
+permalink: /EX04/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

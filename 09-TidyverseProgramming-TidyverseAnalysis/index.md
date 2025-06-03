@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 09 - Tidyverse Programming - Tidyverse Analysis
-permalink: /EXPR09/
+permalink: /EX09/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

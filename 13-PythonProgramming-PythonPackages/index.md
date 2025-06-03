@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 13 - Python Programming - Python Packages
-permalink: /EXPR13/
+permalink: /EX13/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

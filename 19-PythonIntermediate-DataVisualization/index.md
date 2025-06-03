@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 19 - Python Intermediate - Data Visualization
-permalink: /EXPR19/
+permalink: /EX19/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

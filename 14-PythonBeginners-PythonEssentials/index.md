@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 14 - Python Beginners - Python Essentials
-permalink: /EXPR14/
+permalink: /EX14/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

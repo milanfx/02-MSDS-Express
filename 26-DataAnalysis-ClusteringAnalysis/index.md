@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 26 - Data Analysis - Clustering Analysis
-permalink: /EXPR26/
+permalink: /EX26/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

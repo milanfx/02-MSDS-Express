@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 21 - Data Wrangling - Data Integration
-permalink: /EXPR21/
+permalink: /EX21/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

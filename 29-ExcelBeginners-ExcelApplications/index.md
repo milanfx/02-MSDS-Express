@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 29 - Excel Beginners - Excel Applications
-permalink: /EXPR29/
+permalink: /EX29/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

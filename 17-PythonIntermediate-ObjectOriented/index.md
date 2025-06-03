@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 17 - Python Intermediate - Object Oriented
-permalink: /EXPR17/
+permalink: /EX17/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

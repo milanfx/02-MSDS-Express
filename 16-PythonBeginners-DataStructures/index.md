@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 16 - Python Beginners - Data Structures
-permalink: /EXPR16/
+permalink: /EX16/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

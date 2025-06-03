@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 03 - MathBeginners - Integral Calculus
-permalink: /EXPR03/
+permalink: /EX03/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

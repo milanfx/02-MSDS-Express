@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 39 - Tableau Beginners - Tableau Advanced
-permalink: /EXPR39/
+permalink: /EX39/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

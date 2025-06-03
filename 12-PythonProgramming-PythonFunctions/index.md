@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 12 - Python Programming - Python Functions
-permalink: /MSDS12/
+permalink: /EX12/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
