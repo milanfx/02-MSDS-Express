@@ -19,8 +19,8 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <br>
   <a href="/02-MSDS-Express/EXPR04/" class="btn icon1">Analytics<br>Introduction</a>
   <a href="/02-MSDS-Express/EXPR05/" class="btn icon2">Analytics<br>Modeling</a>
-  <a href="/02-MSDS-Express/EXPR06/" class="btn icon3">Analytics<br>Communication</a>
-  <a href="/02-MSDS-Express/EXPR07/" class="btn icon4">Analytics<br>Desicion</a>
+  <a href="/02-MSDS-Express/EXPR06/" class="btn icon3">Analytics<br>Optimization</a>
+  <a href="/02-MSDS-Express/EXPR07/" class="btn icon4">Analytics<br>Reporting</a>
   </span>
 </div>
 
