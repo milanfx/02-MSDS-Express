@@ -105,8 +105,8 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <span class="btn spec1"><span class="btn spec2">Specialization 13 - Communication</span>
   <br>
   <a href="/03-MSDS-Courses/EX40/" class="btn cour1">Helpful<br>Feedback</a>
-  <a href="/03-MSDS-Courses/EX41/" class="btn cour1">Teamwork<br>Skills</a>
-  <a href="/03-MSDS-Courses/EX42/" class="btn cour1">Creative<br>Self</a>
+  <a href="/03-MSDS-Courses/EX41/" class="btn cour2">Teamwork<br>Skills</a>
+  <a href="/03-MSDS-Courses/EX42/" class="btn cour3">Creative<br>Self</a>
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization</span>
   <br>
