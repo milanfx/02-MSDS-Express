@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 34 - Statistics Beginners - Data Distribution
-permalink: /EX34/
+permalink: /EXDS34/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

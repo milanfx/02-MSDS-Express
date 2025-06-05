@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 22 - Data Wrangling - Data Visualization
-permalink: /EX22/
+permalink: /EXDS22/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

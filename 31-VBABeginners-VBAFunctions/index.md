@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 31 - VBA Beginners - VBA Functions
-permalink: /EX31/
+permalink: /EXDS31/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

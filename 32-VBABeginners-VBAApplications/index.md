@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 32 - VBA Beginners - VBA Applications
-permalink: /EX32/
+permalink: /EXDS32/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

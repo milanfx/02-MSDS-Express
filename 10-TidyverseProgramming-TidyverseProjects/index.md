@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 10 - Tidyverse Programming - Tidyverse Capstone
-permalink: /EX10/
+permalink: /EXDS10/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

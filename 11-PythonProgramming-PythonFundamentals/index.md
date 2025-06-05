@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 11 - PythonProgramming - Python Fundamentals
-permalink: /EX11/
+permalink: /EXDS11/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

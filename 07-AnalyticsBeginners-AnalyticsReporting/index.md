@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 07 - Analytics Beginners - Analytics Reporting
-permalink: /EX07/
+permalink: /EXDS07/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

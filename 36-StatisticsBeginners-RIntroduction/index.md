@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 36 - Statistics Beginners - R Introduction
-permalink: /EX36/
+permalink: /EXDS36/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

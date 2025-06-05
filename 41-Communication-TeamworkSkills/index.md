@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 41 - Tableau Beginners - Tableau Dashboard
-permalink: /EX41/
+permalink: /EXDS41/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

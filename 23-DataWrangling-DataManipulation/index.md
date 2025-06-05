@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 23 - Data Wrangling - Data Manipulation
-permalink: /EX23/
+permalink: /EXDS23/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

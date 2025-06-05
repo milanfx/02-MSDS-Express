@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 05 - Analytics Beginners - Analytics Modeling
-permalink: /EX05/
+permalink: /EXDS05/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

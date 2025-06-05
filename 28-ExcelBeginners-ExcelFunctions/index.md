@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 28 - Excel Beginners - Excel Functions
-permalink: /EX28/
+permalink: /EXDS28/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 12 - Python Programming - Python Functions
-permalink: /EX12/
+permalink: /EXDS12/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

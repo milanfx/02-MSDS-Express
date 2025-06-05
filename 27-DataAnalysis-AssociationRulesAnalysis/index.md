@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 27 - Data Analysis - Association Rules Analysis
-permalink: /EX27/
+permalink: /EXDS27/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

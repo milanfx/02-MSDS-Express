@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 25 - Data Analysis - Regression Analysis
-permalink: /EX25/
+permalink: /EXDS25/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

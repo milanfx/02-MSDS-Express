@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 18 - Python Intermediate - NumPy & Pandas
-permalink: /EX18/
+permalink: /EXDS18/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

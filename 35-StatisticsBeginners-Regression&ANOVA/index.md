@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 35 - Statistics Beginners - Regression & ANOVA
-permalink: /EX35/
+permalink: /EXDS35/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

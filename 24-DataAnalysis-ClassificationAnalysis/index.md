@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 24 - Data Analysis - Classification Analysis
-permalink: /EX24/
+permalink: /EXDS24/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

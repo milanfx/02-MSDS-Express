@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 06 - Analytics Beginners - Analytics Optimization
-permalink: /EX06/
+permalink: /EXDS06/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

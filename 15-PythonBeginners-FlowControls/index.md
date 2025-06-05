@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 15 - Python Beginners - Flow Controls
-permalink: /EX15/
+permalink: /EXDS15/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

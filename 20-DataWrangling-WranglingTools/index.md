@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 20 - Data Wrangling - Wrangling Tools
-permalink: /EX20/
+permalink: /EXDS20/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
