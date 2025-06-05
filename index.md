@@ -12,9 +12,9 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 <div>
   <span class="btn spec1"><span class="btn spec2">Specialization 01 - Math Beginners</span>
   <br>
-  <a href="{{ page.prefix }} DS01/" class="btn cour1">Differential<br>Calculus</a>
-  <a href="{{ page.prefix }} DS02/" class="btn cour2">Linear<br>Algebra</a>
-  <a href="{{ page.prefix }} DS03/" class="btn cour3">Integral<br>Calculus</a>
+  <a href="{{ page.prefix }}DS01/" class="btn cour1">Differential<br>Calculus</a>
+  <a href="{{ page.prefix }}DS02/" class="btn cour2">Linear<br>Algebra</a>
+  <a href="{{ page.prefix }}DS03/" class="btn cour3">Integral<br>Calculus</a>
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization 02 - Analytics Beginners</span>
   <br>
