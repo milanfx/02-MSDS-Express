@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 17 - Python Intermediate - Object Oriented
-permalink: /EXDS17/
+permalink: /DS17/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -11,11 +11,11 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Linear Regression          |[Link](/03-MSDS-Courses/EXDS13/M1/)|
-| M2 | Multi Regression           |[Link](/03-MSDS-Courses/EXDS13/M2/)|
-| M3 | Logistic Regression        |[Link](/03-MSDS-Courses/EXDS13/M3/)|
-| M4 | Non-parametric Models      |[Link](/03-MSDS-Courses/EXDS13/M4/)|
-| M5 | Ensemble Methods           |[Link](/03-MSDS-Courses/EXDS13/M5/)|
-| M6 | Kernel Methods             |[Link](/03-MSDS-Courses/EXDS13/M6/)|
+| M1 | Linear Regression          |[Link](/03-MSDS-Courses/DS13/M1/)|
+| M2 | Multi Regression           |[Link](/03-MSDS-Courses/DS13/M2/)|
+| M3 | Logistic Regression        |[Link](/03-MSDS-Courses/DS13/M3/)|
+| M4 | Non-parametric Models      |[Link](/03-MSDS-Courses/DS13/M4/)|
+| M5 | Ensemble Methods           |[Link](/03-MSDS-Courses/DS13/M5/)|
+| M6 | Kernel Methods             |[Link](/03-MSDS-Courses/DS13/M6/)|
 |####|############################|####|
 

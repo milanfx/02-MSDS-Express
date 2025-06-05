@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 10 - Tidyverse Programming - Tidyverse Capstone
-permalink: /EXDS10/
+permalink: /DS10/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -11,10 +11,10 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Hypothesis Testing         |[Link](/03-MSDS-Courses/EXDS06/M1/)|
-| M2 | One Sample Test            |[Link](/03-MSDS-Courses/EXDS06/M2/)|
-| M3 | Two Sample Test            |[Link](/03-MSDS-Courses/EXDS06/M3/)|
-| M4 | Non-normal Test            |[Link](/03-MSDS-Courses/EXDS06/M4/)|
-| M5 | Chi-Squared Test           |[Link](/03-MSDS-Courses/EXDS06/M5/)|
+| M1 | Hypothesis Testing         |[Link](/03-MSDS-Courses/DS06/M1/)|
+| M2 | One Sample Test            |[Link](/03-MSDS-Courses/DS06/M2/)|
+| M3 | Two Sample Test            |[Link](/03-MSDS-Courses/DS06/M3/)|
+| M4 | Non-normal Test            |[Link](/03-MSDS-Courses/DS06/M4/)|
+| M5 | Chi-Squared Test           |[Link](/03-MSDS-Courses/DS06/M5/)|
 |####|############################|####|
 

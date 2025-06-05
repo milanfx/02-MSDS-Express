@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 09 - Tidyverse Programming - Tidyverse Analysis
-permalink: /EXDS09/
+permalink: /DS09/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -11,10 +11,10 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Method of Moments Estimators |[Link](/03-MSDS-Courses/EXDS05/M1/)|
-| M2 | Maximum Likelihood Estimation|[Link](/03-MSDS-Courses/EXDS05/M2/)|
-| M3 | Large Sample Theory          |[Link](/03-MSDS-Courses/EXDS05/M3/)|
-| M4 | Normal Confidence Intervals  |[Link](/03-MSDS-Courses/EXDS05/M4/)|
-| M5 | Other Confidence Intervals   |[Link](/03-MSDS-Courses/EXDS05/M5/)|
+| M1 | Method of Moments Estimators |[Link](/03-MSDS-Courses/DS05/M1/)|
+| M2 | Maximum Likelihood Estimation|[Link](/03-MSDS-Courses/DS05/M2/)|
+| M3 | Large Sample Theory          |[Link](/03-MSDS-Courses/DS05/M3/)|
+| M4 | Normal Confidence Intervals  |[Link](/03-MSDS-Courses/DS05/M4/)|
+| M5 | Other Confidence Intervals   |[Link](/03-MSDS-Courses/DS05/M5/)|
 |####|############################|####|
 

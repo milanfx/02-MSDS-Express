@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 13 - Python Programming - Python Packages
-permalink: /EXDS13/
+permalink: /DS13/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -11,9 +11,9 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Binomial Regression        |[Link](/03-MSDS-Courses/EXDS09/M1/)|
-| M2 | Poisson Regression         |[Link](/03-MSDS-Courses/EXDS09/M2/)|
-| M3 | Nonparametric Regression   |[Link](/03-MSDS-Courses/EXDS09/M3/)|
-| M4 | Generalized Additive Models|[Link](/03-MSDS-Courses/EXDS09/M4/)|
+| M1 | Binomial Regression        |[Link](/03-MSDS-Courses/DS09/M1/)|
+| M2 | Poisson Regression         |[Link](/03-MSDS-Courses/DS09/M2/)|
+| M3 | Nonparametric Regression   |[Link](/03-MSDS-Courses/DS09/M3/)|
+| M4 | Generalized Additive Models|[Link](/03-MSDS-Courses/DS09/M4/)|
 |####|############################|####|
 

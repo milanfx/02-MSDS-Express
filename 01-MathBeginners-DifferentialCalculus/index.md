@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 01 - Math Beginners - Differential Calculus
-permalink: /EXDS01/
+permalink: /DS01/
 ---
 
 <h3>Study Notes</h3>
@@ -11,54 +11,54 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 <div>
   <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
   <br>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon1">📝<br>Summary</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon2">📖<br>Assignment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon4">📂<br>Laboratory</a>
   </span>
 
   <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
   <br>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon1">📝<br>Summary</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon2">📖<br>Assignment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
-  </span>
-</div>
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
-  <br>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon1">📝<br>Summary</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon2">📖<br>Assignment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
-  </span>
-
-  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
-  <br>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon1">📝<br>Summary</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon2">📖<br>Assignment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon4">📂<br>Laboratory</a>
   </span>
 </div>
 
 <div>
   <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
   <br>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon1">📝<br>Summary</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon2">📖<br>Assignment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon4">📂<br>Laboratory</a>
   </span>
 
   <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
   <br>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon1">📝<br>Summary</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon2">📖<br>Assignment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
-  <a href="/01-MSDS-Express/EXDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="{{page.prefix}}01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="{{page.prefix}}01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="{{page.prefix}}01/M1/" class="btn icon4">📂<br>Laboratory</a>
   </span>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 18 - Python Intermediate - NumPy & Pandas
-permalink: /EXDS18/
+permalink: /DS18/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -11,9 +11,9 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Principal Component Analysis|[Link](/03-MSDS-Courses/EXDS14/M1/)|
-| M2 | Clustering Methods          |[Link](/03-MSDS-Courses/EXDS14/M2/)|
-| M3 | Recommender System          |[Link](/03-MSDS-Courses/EXDS14/M3/)|
-| M4 | Matrix Factorization        |[Link](/03-MSDS-Courses/EXDS14/M4/)|
+| M1 | Principal Component Analysis|[Link](/03-MSDS-Courses/DS14/M1/)|
+| M2 | Clustering Methods          |[Link](/03-MSDS-Courses/DS14/M2/)|
+| M3 | Recommender System          |[Link](/03-MSDS-Courses/DS14/M3/)|
+| M4 | Matrix Factorization        |[Link](/03-MSDS-Courses/DS14/M4/)|
 |####|############################|####|
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 19 - Python Intermediate - Data Visualization
-permalink: /EXDS19/
+permalink: /DS19/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -11,9 +11,9 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Multilayer Perceptrons       |[Link](/03-MSDS-Courses/EXDS15/M1/)|
-| M2 | Neural Networks Optimization |[Link](/03-MSDS-Courses/EXDS15/M2/)|
-| M3 | Convolutional Neural Networks|[Link](/03-MSDS-Courses/EXDS15/M3/)|
-| M4 | Recurrent Neural Networks    |[Link](/03-MSDS-Courses/EXDS15/M4/)|
-| M5 | Autoencoders & GAN           |[Link](/03-MSDS-Courses/EXDS15/M5/)|
+| M1 | Multilayer Perceptrons       |[Link](/03-MSDS-Courses/DS15/M1/)|
+| M2 | Neural Networks Optimization |[Link](/03-MSDS-Courses/DS15/M2/)|
+| M3 | Convolutional Neural Networks|[Link](/03-MSDS-Courses/DS15/M3/)|
+| M4 | Recurrent Neural Networks    |[Link](/03-MSDS-Courses/DS15/M4/)|
+| M5 | Autoencoders & GAN           |[Link](/03-MSDS-Courses/DS15/M5/)|
 |####|############################|####|
