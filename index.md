@@ -2,7 +2,7 @@
 layout: page
 title: MSDS Express
 permalink: /
-prefix: /01-MSDS-Express/DS
+prefix: /01-MSDS-Express/
 ---
 
 <h3>Study Notes</h3>
@@ -12,16 +12,16 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 <div>
   <span class="btn spec1"><span class="btn spec2">Specialization 01 - Math Beginners</span>
   <br>
-  <a href="{{page.prefix}}01/" class="btn cour1">Differential<br>Calculus</a>
-  <a href="{{page.prefix}}02/" class="btn cour2">Linear<br>Algebra</a>
-  <a href="{{page.prefix}}03/" class="btn cour3">Integral<br>Calculus</a>
+  <a href="{{page.prefix}}DS01/" class="btn cour1">Differential<br>Calculus</a>
+  <a href="{{page.prefix}}DS02/" class="btn cour2">Linear<br>Algebra</a>
+  <a href="{{page.prefix}}DS03/" class="btn cour3">Integral<br>Calculus</a>
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization 02 - Analytics Beginners</span>
   <br>
-  <a href="{{page.prefix}}04/" class="btn icon1">Analytics<br>Introduction</a>
-  <a href="{{page.prefix}}05/" class="btn icon2">Analytics<br>Modeling</a>
-  <a href="{{page.prefix}}06/" class="btn icon3">Analytics<br>Optimization</a>
-  <a href="{{page.prefix}}07/" class="btn icon4">Analytics<br>Reporting</a>
+  <a href="{{page.prefix}}DS04/" class="btn icon1">Analytics<br>Introduction</a>
+  <a href="{{page.prefix}}DS05/" class="btn icon2">Analytics<br>Modeling</a>
+  <a href="{{page.prefix}}DS06/" class="btn icon3">Analytics<br>Optimization</a>
+  <a href="{{page.prefix}}DS07/" class="btn icon4">Analytics<br>Reporting</a>
   </span>
 </div>
 
