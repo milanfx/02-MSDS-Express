@@ -15,7 +15,7 @@ permalink: /
   </div>
   <div class="btn text">
     <div class="btn name">Specialization 02 - Analytics Beginners</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO04/" class="btn box1">Analytics<br>Introduction</a>
       <a href="/05-Boulder/BO05/" class="btn box2">Analytics<br>Modeling</a>
       <a href="/05-Boulder/BO06/" class="btn box3">Analytics<br>Optimization</a>
@@ -66,7 +66,7 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 07 - Data Wrangling</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO21/" class="btn box1">Wrangling<br>Tools</a>
       <a href="/05-Boulder/BO22/" class="btn box2">Data<br>Integration</a>
       <a href="/05-Boulder/BO23/" class="btn box3">Data<br>Visualization</a>
@@ -76,7 +76,7 @@ permalink: /
   </div>
   <div class="btn text">
     <div class="btn name">Specialization 08 - Data Analysis</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO26/" class="btn box1">Classification<br>Analysis</a>
       <a href="/05-Boulder/BO27/" class="btn box2">Regression<br>Analysis</a>
       <a href="/05-Boulder/BO28/" class="btn box3">Clustering<br>Analysis</a>
@@ -135,7 +135,7 @@ permalink: /
   </div>
   <div class="btn text">
     <div class="btn name">Specialization 14</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
       <a href="" class="btn box1">C1<br>_</a>
       <a href="" class="btn box2">C2<br>_</a>
       <a href="" class="btn box3">C3<br>_</a>
