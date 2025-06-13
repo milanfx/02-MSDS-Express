@@ -16,9 +16,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">02 - Tableau Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO40/" class="btn box1">Tableau<br>Fundamentals</a>
-      <a href="/05-Boulder/BO41/" class="btn box1">Tableau<br>Dashboard</a>
-      <a href="/05-Boulder/BO42/" class="btn box1">Tableau<br>Advanced</a>
+      <a href="/05-Boulder/BO04/" class="btn box1">Tableau<br>Fundamentals</a>
+      <a href="/05-Boulder/BO05/" class="btn box1">Tableau<br>Dashboard</a>
+      <a href="/05-Boulder/BO06/" class="btn box1">Tableau<br>Advanced</a>
     </div>
   </div>
 </div>
@@ -27,17 +27,17 @@ permalink: /
   <div class="btn text">
     <div class="btn name">03 - Tidyverse Programming</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO09/" class="btn box2">Tidyverse<br>Introduction</a>
-      <a href="/05-Boulder/BO10/" class="btn box2">Tidyverse<br>Analysis</a>
-      <a href="/05-Boulder/BO11/" class="btn box2">Tidyverse<br>Projects</a>
+      <a href="/05-Boulder/BO07/" class="btn box2">Tidyverse<br>Introduction</a>
+      <a href="/05-Boulder/BO08/" class="btn box2">Tidyverse<br>Analysis</a>
+      <a href="/05-Boulder/BO09/" class="btn box2">Tidyverse<br>Projects</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">04 - Python Programming</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO12/" class="btn box1">Python<br>Fundamentals</a>
-      <a href="/05-Boulder/BO13/" class="btn box1">Python<br>Functions</a>
-      <a href="/05-Boulder/BO14/" class="btn box1">Python<br>Packages</a>
+      <a href="/05-Boulder/BO12/" class="btn box2">Python<br>Fundamentals</a>
+      <a href="/05-Boulder/BO13/" class="btn box2">Python<br>Functions</a>
+      <a href="/05-Boulder/BO14/" class="btn box2">Python<br>Packages</a>
     </div>
   </div>
 </div>
@@ -54,9 +54,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">06 - Python Intermediate</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO18/" class="btn box2">Object<br>Oriented</a>
-      <a href="/05-Boulder/BO19/" class="btn box2">NumPy<br>& Pandas</a>
-      <a href="/05-Boulder/BO20/" class="btn box2">Data<br>Visualization</a>
+      <a href="/05-Boulder/BO18/" class="btn box1">Object<br>Oriented</a>
+      <a href="/05-Boulder/BO19/" class="btn box1">NumPy<br>& Pandas</a>
+      <a href="/05-Boulder/BO20/" class="btn box1">Data<br>Visualization</a>
     </div>
   </div>
 </div>
@@ -64,7 +64,7 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">07 - Data Wrangling</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO21/" class="btn box2">Wrangling<br>Tools</a>
       <a href="/05-Boulder/BO22/" class="btn box2">Data<br>Integration</a>
       <a href="/05-Boulder/BO23/" class="btn box2">Data<br>Visualization</a>
@@ -74,12 +74,12 @@ permalink: /
   </div>
   <div class="btn text">
     <div class="btn name">08 - Data Analysis</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO26/" class="btn box1">Classification<br>Analysis</a>
-      <a href="/05-Boulder/BO27/" class="btn box1">Regression<br>Analysis</a>
-      <a href="/05-Boulder/BO28/" class="btn box1">Clustering<br>Analysis</a>
-      <a href="/05-Boulder/BO29/" class="btn box1">Association<br>Rules</a>
-      <a href="/05-Boulder/BO30/" class="btn box1">Analysis<br>Project</a>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/05-Boulder/BO26/" class="btn box2">Classification<br>Analysis</a>
+      <a href="/05-Boulder/BO27/" class="btn box2">Regression<br>Analysis</a>
+      <a href="/05-Boulder/BO28/" class="btn box2">Clustering<br>Analysis</a>
+      <a href="/05-Boulder/BO29/" class="btn box2">Association<br>Rules</a>
+      <a href="/05-Boulder/BO30/" class="btn box2">Analysis<br>Project</a>
     </div>
   </div>
 </div>
@@ -96,9 +96,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">10 - VBA Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO34/" class="btn box2">VBA<br>Functions</a>
-      <a href="/05-Boulder/BO35/" class="btn box2">VBA<br>Applications</a>
-      <a href="/05-Boulder/BO36/" class="btn box2">VBA<br>Projects</a>
+      <a href="/05-Boulder/BO34/" class="btn box1">VBA<br>Functions</a>
+      <a href="/05-Boulder/BO35/" class="btn box1">VBA<br>Applications</a>
+      <a href="/05-Boulder/BO36/" class="btn box1">VBA<br>Projects</a>
     </div>
   </div>
 </div>
@@ -115,9 +115,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">12 - Communication</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO43/" class="btn box1">Helpful<br>Feedback</a>
-      <a href="/05-Boulder/BO44/" class="btn box1">Teamwork<br>Skills</a>
-      <a href="/05-Boulder/BO45/" class="btn box1">Creative<br>Self</a>
+      <a href="/05-Boulder/BO43/" class="btn box2">Helpful<br>Feedback</a>
+      <a href="/05-Boulder/BO44/" class="btn box2">Teamwork<br>Skills</a>
+      <a href="/05-Boulder/BO45/" class="btn box2">Creative<br>Self</a>
     </div>
   </div>
 </div>
@@ -126,20 +126,20 @@ permalink: /
   <div class="btn text">
     <div class="btn name">13 - Analytics Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO04/" class="btn box2">Analytics<br>Introduction</a>
-      <a href="/05-Boulder/BO05/" class="btn box2">Analytics<br>Modeling</a>
-      <a href="/05-Boulder/BO06/" class="btn box2">Analytics<br>Optimization</a>
-      <a href="/05-Boulder/BO07/" class="btn box2">Analytics<br>Reporting</a>
-      <a href="/05-Boulder/BO08/" class="btn box2">Analytics<br>Capstone</a>
+      <a href="/05-Boulder/BO04/" class="btn box1">Analytics<br>Introduction</a>
+      <a href="/05-Boulder/BO05/" class="btn box1">Analytics<br>Modeling</a>
+      <a href="/05-Boulder/BO06/" class="btn box1">Analytics<br>Optimization</a>
+      <a href="/05-Boulder/BO07/" class="btn box1">Analytics<br>Reporting</a>
+      <a href="/05-Boulder/BO08/" class="btn box1">Analytics<br>Capstone</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">14</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
-      <a href="" class="btn box2">C1<br>_</a>
-      <a href="" class="btn box2">C2<br>_</a>
-      <a href="" class="btn box2">C3<br>_</a>
-      <a href="" class="btn box2">C4<br>_</a>
+      <a href="" class="btn box1">C1<br>_</a>
+      <a href="" class="btn box1">C2<br>_</a>
+      <a href="" class="btn box1">C3<br>_</a>
+      <a href="" class="btn box1">C4<br>_</a>
     </div>
   </div>
 </div>
