@@ -14,13 +14,11 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">02 - Analytics Beginners</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO04/" class="btn box2">Analytics<br>Introduction</a>
-      <a href="/05-Boulder/BO05/" class="btn box2">Analytics<br>Modeling</a>
-      <a href="/05-Boulder/BO06/" class="btn box2">Analytics<br>Optimization</a>
-      <a href="/05-Boulder/BO07/" class="btn box2">Analytics<br>Reporting</a>
-      <a href="/05-Boulder/BO08/" class="btn box2">Analytics<br>Capstone</a>
+    <div class="btn name">02 - Tableau Beginners</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/05-Boulder/BO40/" class="btn box1">Tableau<br>Fundamentals</a>
+      <a href="/05-Boulder/BO41/" class="btn box1">Tableau<br>Dashboard</a>
+      <a href="/05-Boulder/BO42/" class="btn box1">Tableau<br>Advanced</a>
     </div>
   </div>
 </div>
@@ -115,22 +113,24 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">12 - Tableau Beginners</div>
+    <div class="btn name">12 - Communication</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO40/" class="btn box1">Tableau<br>Fundamentals</a>
-      <a href="/05-Boulder/BO41/" class="btn box1">Tableau<br>Dashboard</a>
-      <a href="/05-Boulder/BO42/" class="btn box1">Tableau<br>Advanced</a>
+      <a href="/05-Boulder/BO43/" class="btn box1">Helpful<br>Feedback</a>
+      <a href="/05-Boulder/BO44/" class="btn box1">Teamwork<br>Skills</a>
+      <a href="/05-Boulder/BO45/" class="btn box1">Creative<br>Self</a>
     </div>
   </div>
 </div>
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">13 - Communication</div>
+    <div class="btn name">13 - Analytics Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/05-Boulder/BO43/" class="btn box1">Helpful<br>Feedback</a>
-      <a href="/05-Boulder/BO44/" class="btn box1">Teamwork<br>Skills</a>
-      <a href="/05-Boulder/BO45/" class="btn box1">Creative<br>Self</a>
+      <a href="/05-Boulder/BO04/" class="btn box2">Analytics<br>Introduction</a>
+      <a href="/05-Boulder/BO05/" class="btn box2">Analytics<br>Modeling</a>
+      <a href="/05-Boulder/BO06/" class="btn box2">Analytics<br>Optimization</a>
+      <a href="/05-Boulder/BO07/" class="btn box2">Analytics<br>Reporting</a>
+      <a href="/05-Boulder/BO08/" class="btn box2">Analytics<br>Capstone</a>
     </div>
   </div>
   <div class="btn text">
