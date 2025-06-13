@@ -135,11 +135,12 @@ permalink: /
   </div>
   <div class="btn text">
     <div class="btn name">14</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="" class="btn box1">C1<br>_</a>
       <a href="" class="btn box1">C2<br>_</a>
       <a href="" class="btn box1">C3<br>_</a>
       <a href="" class="btn box1">C4<br>_</a>
+      <a href="" class="btn box1">C5<br>_</a>
     </div>
   </div>
 </div>
