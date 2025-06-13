@@ -6,7 +6,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 01 - Math Beginners</div>
+    <div class="btn name">01 - Math Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO01/" class="btn box1">Differential<br>Calculus</a>
       <a href="/05-Boulder/BO02/" class="btn box1">Linear<br>Algebra</a>
@@ -14,7 +14,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 02 - Analytics Beginners</div>
+    <div class="btn name">02 - Analytics Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO04/" class="btn box2">Analytics<br>Introduction</a>
       <a href="/05-Boulder/BO05/" class="btn box2">Analytics<br>Modeling</a>
@@ -27,7 +27,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 03 - Tidyverse Programming</div>
+    <div class="btn name">03 - Tidyverse Programming</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO09/" class="btn box2">Tidyverse<br>Introduction</a>
       <a href="/05-Boulder/BO10/" class="btn box2">Tidyverse<br>Analysis</a>
@@ -35,7 +35,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 04 - Python Programming</div>
+    <div class="btn name">04 - Python Programming</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO12/" class="btn box1">Python<br>Fundamentals</a>
       <a href="/05-Boulder/BO13/" class="btn box1">Python<br>Functions</a>
@@ -46,7 +46,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 05 - Python Beginners</div>
+    <div class="btn name">05 - Python Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO15/" class="btn box1">Python<br>Essentials</a>
       <a href="/05-Boulder/BO16/" class="btn box1">Flow<br>Controls</a>
@@ -54,7 +54,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 06 - Python Intermediate</div>
+    <div class="btn name">06 - Python Intermediate</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO18/" class="btn box2">Object<br>Oriented</a>
       <a href="/05-Boulder/BO19/" class="btn box2">NumPy<br>& Pandas</a>
@@ -65,7 +65,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 07 - Data Wrangling</div>
+    <div class="btn name">07 - Data Wrangling</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO21/" class="btn box2">Wrangling<br>Tools</a>
       <a href="/05-Boulder/BO22/" class="btn box2">Data<br>Integration</a>
@@ -75,7 +75,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 08 - Data Analysis</div>
+    <div class="btn name">08 - Data Analysis</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO26/" class="btn box1">Classification<br>Analysis</a>
       <a href="/05-Boulder/BO27/" class="btn box1">Regression<br>Analysis</a>
@@ -88,7 +88,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 09 - Excel Beginners</div>
+    <div class="btn name">09 - Excel Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO31/" class="btn box1">Excel<br>Functions</a>
       <a href="/05-Boulder/BO32/" class="btn box1">Excel<br>Applications</a>
@@ -96,7 +96,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 10 - VBA Beginners</div>
+    <div class="btn name">10 - VBA Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO34/" class="btn box2">VBA<br>Functions</a>
       <a href="/05-Boulder/BO35/" class="btn box2">VBA<br>Applications</a>
@@ -107,7 +107,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 11 - Statistics Beginners</div>
+    <div class="btn name">11 - Statistics Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO37/" class="btn box2">Data<br>Distribution</a>
       <a href="/05-Boulder/BO38/" class="btn box2">Regression<br>& ANOVA</a>
@@ -115,7 +115,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 12 - Tableau Beginners</div>
+    <div class="btn name">12 - Tableau Beginners</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO40/" class="btn box1">Tableau<br>Fundamentals</a>
       <a href="/05-Boulder/BO41/" class="btn box1">Tableau<br>Dashboard</a>
@@ -126,7 +126,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 13 - Communication</div>
+    <div class="btn name">13 - Communication</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/05-Boulder/BO43/" class="btn box1">Helpful<br>Feedback</a>
       <a href="/05-Boulder/BO44/" class="btn box1">Teamwork<br>Skills</a>
@@ -134,7 +134,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 14</div>
+    <div class="btn name">14</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
       <a href="" class="btn box2">C1<br>_</a>
       <a href="" class="btn box2">C2<br>_</a>
